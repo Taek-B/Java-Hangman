@@ -12,8 +12,7 @@
 
 
 ## 추가하고 싶은 부분
-- 시도횟수 추가
-- 없음
+- 미정
 
 ## 참고사이트
 Random Words : https://randomwordgenerator.com/ <br/>
